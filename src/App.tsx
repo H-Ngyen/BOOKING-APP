@@ -1,4 +1,4 @@
-import { BrowserRouter as Router ,Route ,Routes } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Layout from './layouts/Layout'
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
 
       </Routes>
     </Router>
+
   )
 }
 
